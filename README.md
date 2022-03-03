@@ -1,2 +1,4 @@
 # Chreate
-A minimal game menu written in love2d.
+A minimal, animated game menu written in love2d.
+
+## Screenshots
